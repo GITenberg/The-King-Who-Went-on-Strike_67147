@@ -1,0 +1,27 @@
+_repo: The-King-Who-Went-on-Strike_67147
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Choate, Pearson
+    gutenberg_agent_id: '54129'
+    url: http://www.gutenberg.org/2009/agents/54129
+description: ''
+gutenberg_issued: '2022-01-12'
+identifiers:
+  gutenberg: '67147'
+language: en
+pgterms:marc904: https://archive.org/details/kingwhowentonstr00choa/page/n5/mode/2up
+pgterms:marc905: 20200601041903choate
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Tim Lindell, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Dodd, Mead and Company,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The King Who Went on Strike
+url: http://www.gutenberg.org/ebooks/67147
